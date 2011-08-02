@@ -1,1 +1,1 @@
-My [dotjs](http://defunkt.io/dotjs/) files.
+My [~/.js](http://defunkt.io/dotjs/) files.
