@@ -17,3 +17,5 @@ $('.watch-module-body').each(function() {
         padding: '0.5em'
     });
 });
+
+$('#watch-video').delay(250).removeClass('has-ad')
