@@ -1,1 +1,1 @@
-$('.radar, .promo').hide();
+$('.promo').hide();
