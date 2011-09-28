@@ -1,3 +1,4 @@
+/*
 var steve = $('<div><img src="http://media.tumblr.com/tumblr_lpbs43jgcx1qz5urdo1_100.png"/></div>');
 steve.css({
     position: 'fixed',
@@ -16,3 +17,4 @@ $('<style>@-webkit-keyframes spinSteve { ' +
 
 steve[0].style['-webkit-animation'] = 'spinSteve 2s linear infinite';
 steve.appendTo(document.body);
+*/
