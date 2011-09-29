@@ -1,4 +1,4 @@
-var triggers1 = /(karma whore|upvote|downvote|reddit enhancement suite|fap|ftfy)/i,
+var triggers1 = /(‽|karma whore|upvote|downvote|reddit enhancement suite|fap|ftfy)/i,
     triggers2 = /(RES\W)/;
 
 $('.entry').each(function() {
